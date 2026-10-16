@@ -48,6 +48,34 @@ automáticas de mantenimiento predictivo.
 - 🔔 Alertas en tiempo real por WebSocket (ECT > 105 °C)
 - 🌐 Desplegado con URL fija: backend en Render + PostgreSQL en Neon
 
+### [BiblioÚnica — Sistema de gestión de biblioteca universitaria](https://github.com/Santiago-Gohan/Bibliounica-server.)
+
+[![Demo](https://img.shields.io/badge/Demo-en%20vivo-brightgreen)](https://bibliounica.onrender.com)
+
+**¿Por qué lo hice?** Llevar el control de una biblioteca en papel (préstamos, devoluciones
+e inventario) es un caos. BiblioÚnica digitaliza todo el proceso con dos roles bien separados
+y un panel de administración.
+
+- 📚 Inventario de libros con control de disponibilidad
+- 🔄 Registro de préstamos y devoluciones por estudiante
+- 👥 Dos roles: **bibliotecario** (admin) y **estudiante**
+- ✅ Desplegado con URL fija en Render (base de datos SQLite/PostgreSQL)
+
+**Tecnologías:** Python · Django · Django REST · SQLite/PostgreSQL · Render
+
+### [El Imperio — Tienda de hogar (loza, herramientas y utilidades)](https://github.com/Santiago-Gohan/El-Imperio)
+
+**¿Por qué lo hice?** Un negocio de Cimitarra necesitaba mostrar su catálogo de productos
+para el hogar en internet. El Imperio es una tienda web con categorías, fichas de producto
+y un canal de contacto directo con los clientes.
+
+- 🛍️ Catálogo organizado por **categorías y productos**
+- ✉️ Formulario de **mensajes/contacto** de clientes
+- 🧩 Backend API con Django REST Framework + frontend propio
+- 📈 Pensado para apoyar el plan de ventas del negocio
+
+**Tecnologías:** Python · Django · Django REST · SQLite/PostgreSQL · Render
+
 ## 📫 Contacto
 
 - GitHub: [@Santiago-Gohan](https://github.com/Santiago-Gohan)
