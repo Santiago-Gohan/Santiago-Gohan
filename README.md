@@ -63,7 +63,7 @@ y un panel de administración.
 
 **Tecnologías:** Python · Django · Django REST · SQLite/PostgreSQL · Render
 
-### [El Imperio — Tienda de hogar (loza, herramientas y utilidades)](https://github.com/Santiago-Gohan/El-Imperio)
+### El Imperio — Tienda de hogar (loza, herramientas y utilidades)
 
 **¿Por qué lo hice?** Un negocio de Cimitarra necesitaba mostrar su catálogo de productos
 para el hogar en internet. El Imperio es una tienda web con categorías, fichas de producto
